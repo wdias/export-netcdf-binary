@@ -1,4 +1,4 @@
-FROM python:3.7-slim
+FROM python:3.7.3-slim
 
 WORKDIR /src
 EXPOSE 8080
