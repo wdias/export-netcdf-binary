@@ -1,4 +1,4 @@
-FROM python:3.7.3-slim-buster
+FROM python:3.7.3-slim
 
 WORKDIR /src
 EXPOSE 8080
